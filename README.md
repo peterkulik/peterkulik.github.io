@@ -14,7 +14,9 @@
 
 [Introduction to Shell](https://www.datacamp.com/statement-of-accomplishment/course/fda6ee9bf5935efb364e5fc046e4096f23e9f8d6)
 
-[Improving Query Performance in SQL Server](https://www.datacamp.com/statement-of-accomplishment/course/aeef2dfff6878b695185849781aa936ff947b346)\ \
+[Improving Query Performance in SQL Server](https://www.datacamp.com/statement-of-accomplishment/course/aeef2dfff6878b695185849781aa936ff947b346)
+\
+\
 
 [Python Generators 101 on Real Python](https://realpython.com/certificates/43235829-d567-4c7f-8321-54aa3c390a03/)
 
