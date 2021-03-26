@@ -21,3 +21,5 @@
 [Using List Comprehensions Effectively](https://realpython.com/certificates/de32fb98-3bd2-4b8e-a35c-5140cd233e53/)
 
 [Navigating Namespaces and Scope in Python](https://realpython.com/certificates/eb1308cb-b562-4262-90cb-6edaf0249687/)
+
+[Python Context Managers and the "with" Statement](https://realpython.com/certificates/4b1e7b6f-0ae0-4d10-978b-500a2870a9cf/)
