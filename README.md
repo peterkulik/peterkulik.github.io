@@ -22,6 +22,8 @@
 
 [Writing Efficient Python Code](https://www.datacamp.com/statement-of-accomplishment/course/bd3eecaed5e5117e0be28b513ddbce40b4da02d0)
 
+[Getting the Most Out of a Python Traceback](https://realpython.com/certificates/097d932a-0e13-4396-804b-0e66136436c1/)
+
 [Introduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/e13f50e513082963f661abbb30ab6bff1fc20c9e)
 
 [Introduction to Shell](https://www.datacamp.com/statement-of-accomplishment/course/fda6ee9bf5935efb364e5fc046e4096f23e9f8d6)
