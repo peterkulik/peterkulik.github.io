@@ -34,4 +34,4 @@
 ## To learn
 [Logging in Python](https://realpython.com/courses/logging-python/)<br/>
 [How to Publish Your Own Python Package to PyPI](https://realpython.com/lessons/pypi-overview-sample-project-setup/)
-
+[How Python Manages Memory](https://realpython.com/courses/how-python-manages-memory/)
