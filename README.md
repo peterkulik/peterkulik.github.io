@@ -39,3 +39,5 @@
 [How Python Manages Memory](https://realpython.com/courses/how-python-manages-memory/)
 
 [Python vs Java: Object Oriented Programming](https://realpython.com/lessons/sample-classes-python-v-java/)
+
+[Structuring a Python Application](https://realpython.com/courses/structuring-python-application/)
