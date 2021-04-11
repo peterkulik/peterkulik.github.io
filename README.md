@@ -43,3 +43,5 @@
 [Structuring a Python Application](https://realpython.com/courses/structuring-python-application/)
 
 [How to Implement a Python Stack](https://realpython.com/courses/python-stack/)
+
+[TensorfFlow 2.0 Beginner Course (With Hands-On Projects)](https://www.youtube.com/watch?v=LwM7xabuiIc)
