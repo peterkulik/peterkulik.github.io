@@ -41,3 +41,5 @@
 [Python vs Java: Object Oriented Programming](https://realpython.com/lessons/sample-classes-python-v-java/)
 
 [Structuring a Python Application](https://realpython.com/courses/structuring-python-application/)
+
+[How to Implement a Python Stack](https://realpython.com/courses/python-stack/)
