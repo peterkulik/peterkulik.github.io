@@ -45,3 +45,7 @@
 [How to Implement a Python Stack](https://realpython.com/courses/python-stack/)
 
 [TensorfFlow 2.0 Beginner Course (With Hands-On Projects)](https://www.youtube.com/watch?v=LwM7xabuiIc)
+
+[What Is the Python Global Interpreter Lock (GIL)?](https://realpython.com/python-gil/)
+
+[OOP Method Types in Python: @classmethod vs @staticmethod vs Instance Methods](https://realpython.com/courses/python-method-types/)
