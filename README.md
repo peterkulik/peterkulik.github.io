@@ -36,7 +36,7 @@
 
 [Logging in Python](https://realpython.com/courses/logging-python/)
 
-[https://realpython.com/courses/inheritance-composition-python/](https://realpython.com/courses/inheritance-composition-python/)
+[Inheritance and Composition: A Python OOP Guide](https://realpython.com/courses/inheritance-composition-python/)
 
 [How to Publish Your Own Python Package to PyPI](https://realpython.com/lessons/pypi-overview-sample-project-setup/)
 
