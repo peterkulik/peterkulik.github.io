@@ -36,6 +36,8 @@
 
 [Logging in Python](https://realpython.com/courses/logging-python/)
 
+[Threading in Python](https://realpython.com/courses/threading-python/)
+
 [Inheritance and Composition: A Python OOP Guide](https://realpython.com/courses/inheritance-composition-python/)
 
 [How to Publish Your Own Python Package to PyPI](https://realpython.com/lessons/pypi-overview-sample-project-setup/)
