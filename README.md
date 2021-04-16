@@ -61,3 +61,5 @@
 [The Factory Method Pattern and Its Implementation in Python](https://realpython.com/factory-method-python/)
 
 [Serializing Objects With the Python pickle Module](https://realpython.com/courses/pickle-serializing-objects/)
+
+[The Factory Method Pattern and Its Implementation in Python](https://realpython.com/factory-method-python/)
