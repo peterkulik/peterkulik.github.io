@@ -40,6 +40,8 @@
 
 [Inheritance and Composition: A Python OOP Guide](https://realpython.com/courses/inheritance-composition-python/)
 
+[Using NumPy's np.arange() Effectively](https://realpython.com/courses/numpy-arange/)
+
 [How to Publish Your Own Python Package to PyPI](https://realpython.com/lessons/pypi-overview-sample-project-setup/)
 
 [How Python Manages Memory](https://realpython.com/courses/how-python-manages-memory/)
@@ -57,3 +59,5 @@
 [OOP Method Types in Python: @classmethod vs @staticmethod vs Instance Methods](https://realpython.com/courses/python-method-types/)
 
 [The Factory Method Pattern and Its Implementation in Python](https://realpython.com/factory-method-python/)
+
+[Serializing Objects With the Python pickle Module](https://realpython.com/courses/pickle-serializing-objects/)
