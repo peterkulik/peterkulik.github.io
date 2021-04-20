@@ -8,6 +8,8 @@
 
 [Speed Up Python With Concurrency](https://realpython.com/certificates/58749f73-5837-4bda-b6cf-7068e2f57192/)
 
+[Threading in Python](https://realpython.com/certificates/cd07b81f-5c83-45f2-a01a-b7f0aebcb1c2/)
+
 [Python Context Managers and the "with" Statement](https://realpython.com/certificates/4b1e7b6f-0ae0-4d10-978b-500a2870a9cf/)
 
 [Python Generators 101 on Real Python](https://realpython.com/certificates/43235829-d567-4c7f-8321-54aa3c390a03/)
@@ -35,8 +37,6 @@
 [Python Type Checking](https://realpython.com/lessons/type-checking-mypy/)
 
 [Logging in Python](https://realpython.com/courses/logging-python/)
-
-[Threading in Python](https://realpython.com/courses/threading-python/)
 
 [Inheritance and Composition: A Python OOP Guide](https://realpython.com/courses/inheritance-composition-python/)
 
