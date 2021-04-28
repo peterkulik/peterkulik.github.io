@@ -36,6 +36,8 @@
 ## To learn
 [Python Type Checking](https://realpython.com/lessons/type-checking-mypy/)
 
+[Functional Programming in Python](https://realpython.com/lessons/functional-programming-course-overview/)
+
 [Logging in Python](https://realpython.com/courses/logging-python/)
 
 [Inheritance and Composition: A Python OOP Guide](https://realpython.com/courses/inheritance-composition-python/)
