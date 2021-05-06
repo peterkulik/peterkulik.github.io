@@ -36,6 +36,8 @@
 
 
 ## To learn
+[Hands-On Python 3 Concurrency With the asyncio Module](https://realpython.com/courses/python-3-concurrency-asyncio-module/)
+
 [Python Type Checking](https://realpython.com/lessons/type-checking-mypy/)
 
 [Functional Programming in Python](https://realpython.com/lessons/functional-programming-course-overview/)
