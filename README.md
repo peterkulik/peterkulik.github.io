@@ -32,6 +32,8 @@
 
 [Improving Query Performance in SQL Server](https://www.datacamp.com/statement-of-accomplishment/course/aeef2dfff6878b695185849781aa936ff947b346)
 
+[Intermediate SQL Server](https://www.datacamp.com/statement-of-accomplishment/course/b6aed6fd52b8e213815d13221ce88a312018a680)
+
 [Introduction to Power BI](https://www.datacamp.com/statement-of-accomplishment/course/8b33ca2f3d6760dea89a5d61bf3c90d4768f21b6)
 
 
