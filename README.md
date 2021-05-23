@@ -6,6 +6,8 @@
 
 [Introduction to Airflow in Python](https://www.datacamp.com/statement-of-accomplishment/course/e2f82dd628492ddf18858064f9a262380b91ca57)
 
+[How Python Manages Memory](https://realpython.com/certificates/a676188d-2fdc-45dc-a58c-14a288cc92b5/)
+
 [Speed Up Python With Concurrency](https://realpython.com/certificates/58749f73-5837-4bda-b6cf-7068e2f57192/)
 
 [Threading in Python](https://realpython.com/certificates/cd07b81f-5c83-45f2-a01a-b7f0aebcb1c2/)
